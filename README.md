@@ -47,7 +47,7 @@
 ---
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left" style="background-color: white; padding: 10px; border-radius: 8px;">
+<p align="left" style="background-color: rgb(255, 255, 255); padding: 10px; border-radius: 8px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin: 10px;" />
