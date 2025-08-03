@@ -45,6 +45,7 @@
 </p>
 
 ---
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left" style="background-color: rgb(255, 255, 255); padding: 10px; border-radius: 8px;">
@@ -64,6 +65,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" style="margin: 10px;" />
 </p>
+
 ---
 
 ### 📊 GitHub Stats
