@@ -1,27 +1,43 @@
 <h1 align="center">Hi 👋, I'm Manojit Saha</h1>
-<h3 align="center">Aspiring AI/ML Developer | Final Year Student | Passionate about Building Intelligent Systems</h3>
+<h3 align="center">AI/ML Developer | Final Year CSE Student | Passionate about Building Smart Solutions</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=manojit2943p&theme=gruvbox&margin-w=15&margin-h=15" alt="trophies" />
 </p>
 
-- 🎓 Final year undergraduate student passionate about **AI/ML**  
-- 🌱 Currently learning **LangGraph**, **Agentic Workflows**, and **LLMOps**  
-- 🤖 Building open-source projects involving **LangChain**, **FastAPI**, **n8n**, and **Streamlit**  
-- 📫 Reach me at: **manojits388@gmail.com**  
-- 💼 Check my resume: [View PDF](https://1drv.ms/b/c/d8a2df860989d302/Eb1mduVmA7dJkiTCCiD2TEgBls3RstUZpQnEKrJh0ib-cQ)
+---
+
+### 🧑‍💻 About Me
+
+- 🎓 Final Year B.Tech CSE student at Gargi Memorial Institute of Technology  
+- 🧠 Enthusiastic about Machine Learning, Deep Learning, and LLMs  
+- ⚙️ Skilled in Python, SQL, and tools like LangChain, LangGraph, Streamlit  
+- 🧰 I love building intelligent applications with a focus on open-source tools  
+- 📫 Reach me at: **manojitsaha788@gmail.com**
 
 ---
 
-### 🧠 Recent Projects
-- 🔍 **Resume Analyzer with LLM**: Identifies skill gaps and generates resumes using LangChain + Streamlit  
-- ⚙️ **Court Case Data Fetcher**: Web app to extract and summarize Indian court cases  
-- 🤖 **WhatsApp AI Assistant (n8n)**: Automates Google Drive tasks using AI and WhatsApp commands  
-- 🛣️ **PMGSY Scheme Classifier**: ML model to classify road schemes using structured data
+### 💼 Projects
+
+- 🎯 **AI-Powered Resume Analyzer**  
+  Developed using LangChain and LLaMA to identify skill gaps and provide context-aware feedback  
+
+- 🎬 **Movie Recommendation System**  
+  A content-based recommender with a search feature using Scikit-learn and Streamlit  
 
 ---
 
-### 🌐 Connect with Me
+### 🏆 Certifications
+
+- 💼 BCG – GenAI Job Simulation (Forage)  
+- ✈️ British Airways – Data Science Job Simulation (Forage)  
+- 🔥 PyTorch for Deep Learning – Scaler  
+- 🤖 Generative AI Essentials – Microsoft & LinkedIn  
+- 📊 Data Science Bootcamp – GeeksforGeeks  
+
+---
+
+### 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/manojit-saha" target="_blank">
@@ -40,19 +56,54 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-LangChain-000000?logo=langchain&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-n8n-E87722?logo=n8n&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square" />
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.cplusplus.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
+  </a>
+  <a href="https://streamlit.io/" target="_blank">
+    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="streamlit" width="80" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+  </a>
 </p>
 
 ---
